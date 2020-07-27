@@ -9,7 +9,7 @@ React Native base application with default configurations to be used as a faster
 
 
 ## ⚠️ Attention
-Make sure to run <em>npx react-native-rename <strong>'new application name'</strong></em> before build your application.
+Make sure to run <em><strong>npx react-native-rename 'new application name'</strong></em> before build your application.
 
 ## 👀️ Settings made in this base project:
 
