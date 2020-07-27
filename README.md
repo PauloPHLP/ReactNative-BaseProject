@@ -7,6 +7,10 @@
 ## 🔎️ Description
 React Native base application with default configurations to be used as a faster start for new projects. This base was created by using React Native CLI.
 
+
+## ⚠️ Attention
+Make sure to run "npx react-native-rename <newName>" before build your application.
+
 ## 👀️ Settings made in this base project:
 
 - .editorconfig
